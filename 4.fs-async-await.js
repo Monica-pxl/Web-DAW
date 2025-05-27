@@ -15,5 +15,3 @@ import { readFile } from 'node:fs/promises'
         console.log('segundo texto: ', secondText2)
     }
 )()
-
-
