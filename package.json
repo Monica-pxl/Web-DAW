@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "name": "web-daw",
+  "version": "1.0.0",
+  "description": "Curso node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monica-pxl/Web-DAW.git"
+  },
+  "keywords": [
+    "curso",
+    "node"
+  ],
+  "author": "Monica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monica-pxl/Web-DAW/issues"
+  },
+  "homepage": "https://github.com/Monica-pxl/Web-DAW#readme",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
