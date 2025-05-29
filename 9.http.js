@@ -11,5 +11,5 @@ const server = http.createServer((solicitud, respuesta) => {
 //Si pongo puerto 0, me buscará el primer
 //puerto que esté disponible
 server.listen(0, () => {
-    console.log('server listening on port ')
+    console.log(`server listening on port ${server.address().port}`)
 })
